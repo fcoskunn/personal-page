@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://fcoskun.info',
+  title: 'Fatih Coşkun',
+  subtitle: '2nd year student in Computer Engineering at AGU.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-134139675-1',
   menu: [
     {
       label: 'Articles',
@@ -20,19 +20,16 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
-    }
+    },
   ],
   author: {
-    name: 'John Doe',
+    name: 'Fatih Coşkun',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '2nd year student in Computer Engineering at AGU.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'fatih.coskun@agu.edu.tr',
+      github: 'fcoskunn',
+      linkedin : 'fcoskunnn',
     }
   }
 };
