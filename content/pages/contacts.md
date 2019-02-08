@@ -1,32 +1,102 @@
 ---
 template: page
-title: Resume
+title: Fatih Coşkun
 slug: /pages/resume
 draft: false
 ---
+**Student**
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+## AAA
+---
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+**GPA 3.71**
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+**Education**
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+**The School of Foreign Language**  **\    2016 - 2017**
 
-## Header Level 2
+* AGU English Preparatory School
+* English for Academic Purposes
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+**University of La Verne**  **\    2017 - 2017**
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+* English Summer Education
 
-### Header Level 3
+**Computer Engineering**  **\    2017 - Present**
 
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
+* Abdullah Gul University 2nd year Student
 
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+**Personal Projects**
 
-#### Header Level 4
+**Non-Academic Website for Abdullah Gul University                                                                         Ongoing**
 
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+* With the coordination of the AGU Youth Factory and Dean of Students Office the Non-Academic Transcript (NAT) is created by Abdullah Gul University which will now ensure easy recognition  of the students&#39; competencies. The academic achievement of the students is recognized by the diploma and the diploma appendix they receive when they graduate from their respective universities. Via NAT, students will make the extracurricular activities they took part in and the competencies (soft skills) they acquired recognized.
+* The NAT website is prepared with php, jQuery, Hammer.js, Materialize CSS on CentOS operating system.
+
+**Events and Contests' Nokia Registration System Supporting GDPR Requirements**  **\    Ongoing**
+
+* Epic project with Erasmus+
+* It is a project that aims to create a mobile registration system for the events organized by Nokia and to register the customer, Nokia employees and students.
+
+[**Radiate Android Radio Stream Application**](https://github.com/fcoskunn/Radiate) **\    Finished**
+
+* Application gets radio stations from an API.
+* There are more than 20 thousand radio stations with differentcountries and
+
+**Light Follower with Lego Mindstorm**_Abdullah Gul University                                                       _** Finished**
+
+[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University                                                                                                                _ **Finished**
+
+* A fork game of Agar.io
+* Java Object Oriented Programming Course Project
+
+**Scholarships**
+
+**Ministry of Nation, Abdual Education of Turkey Scholarship**  **\    2008 – 2016**
+
+**AGU Foundation Scholarship for High Performance                                                     2016 – Present**
+
+**Languages**
+
+**English – Fluent in reading, writing, listening and speaking**
+
+**Turkish – Mother tongue**
+
+**Extra-Curricular Activities**
+
+**Head of Computer Society Club, AGU                                               **  **\    2018 – Present**
+
+**Participant in Mobile Programming Hackathon, AGU 2018**
+
+**Participant in Inzva Summer Camp 2018**
+
+**Technical Skills**
+
+**Java – Experienced**
+
+**Mobile Programming – Experienced**
+
+**Web technologies**
+
+* Php, HTML, Javascript, jQuery, Ajax
+
+**Database**
+
+* MySQL
+
+**Linux Shell and Bash Programming – Experienced**
+
+* Experienced in Ubuntu, Debian, Fedora and Arch for 5 years
+* Variety of Linux Shell Commands
+* Using a Linux Server
+* Vim Editor
+* Downloading data by connecting a FTP server
+* AWK, SED, GREP commands
+
+**R programming –**  **Basic**
+
+**Python programming – Experienced**
+
+* Machine learning algorithms (Beginner)
+
+**Efficient with Office programs**
