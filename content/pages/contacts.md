@@ -4,9 +4,9 @@ title: Fatih Coşkun
 slug: /pages/resume
 draft: false
 ---
-<figure class="float-right" style="width: 50px">
+<div class="float-right" style="width: 50px">
 	<img style="width: 75px" src="/media/Agu.png">
-</figure>
+</div>
 
 **[Download Resume](https://drive.google.com/uc?export=download&id=1ZmJOJ3O5cU2HSWurqyiy6xUgk4aBkYYN)**
 
