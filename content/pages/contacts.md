@@ -38,9 +38,9 @@ draft: false
 [**Radiate Android Radio Stream Application**](https://github.com/fcoskunn/Radiate) (**Finished)**
 
 * Application gets radio stations from an API.
-* There are more than 20 thousand radio stations with differentcountries and
+* There are more than 20 thousand radio stations with different countries and languages.
 
-**Light Follower with Lego Mindstorm**_Abdullah Gul University (_**Finished)**
+**Light Follower with Lego Mindstorm **_Abdullah Gul University (_**Finished)**
 
 [**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University (_**Finished)**
 
