@@ -1,7 +1,7 @@
 ---
 template: page
 title: Resume
-slug: /resume
+slug: /pages/resume
 draft: false
 ---
 
