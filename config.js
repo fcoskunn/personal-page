@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Fatih Coşkun',
     photo: '/photo.jpg',
-    bio: '2nd year student in Computer Engineering at AGU.',
+    bio: '2nd year student in Computer Engineering at AGU. ',
     contacts: {
       email: 'fatih.coskun@agu.edu.tr',
       github: 'fcoskunn',
