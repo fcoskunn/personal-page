@@ -1,9 +1,15 @@
 ---
 template: page
-title: "Fatih Coşkun <div class=\"float-right\" style=\"width: 50px\"> \t<img style=\"width: 75px\" src=\"/media/Agu.png\"> </div>"
+title: Resume
 slug: /pages/resume
 draft: false
 ---
+<div class="float-right" style="width: 50px">
+	<img style="width: 75px" src="/media/Agu.png">
+</div>
+
+## Fatih Coşkun
+
 **[Download Resume](https://drive.google.com/uc?export=download&id=1ZmJOJ3O5cU2HSWurqyiy6xUgk4aBkYYN)**
 
 **Student, GPA 3.71**
