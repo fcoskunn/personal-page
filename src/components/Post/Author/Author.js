@@ -11,8 +11,8 @@ export const PureAuthor = ({ data }) => {
       <p className={styles['author__bio']}>
         {author.bio}
         <a
-          className={styles['author__bio-twitter']}
-          href={getContactHref('twitter', author.contacts.twitter)}
+          className={styles['author__bio-linkedin']}
+          href={getContactHref('linkedin', author.contacts.linkedin)}
           rel="noopener noreferrer"
           target="_blank"
         >
@@ -33,7 +33,7 @@ export const Author = (props) => (
               name
               bio
               contacts {       
-                twitter
+                linkedin
               }
             }
           }
