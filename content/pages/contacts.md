@@ -5,7 +5,7 @@ slug: /pages/resume
 draft: false
 ---
 <figure class="float-right" style="width: 50px">
-	<img src="/media/Agu.png">
+	<img style="width: 50px" src="/media/Agu.png">
 	<figcaption>Abdullah Gul University</figcaption>
 </figure>
 
