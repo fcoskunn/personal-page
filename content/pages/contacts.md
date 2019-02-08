@@ -5,8 +5,7 @@ slug: /pages/resume
 draft: false
 ---
 <figure class="float-right" style="width: 50px">
-	<img style="width: 50px" src="/media/Agu.png">
-	<figcaption>Abdullah Gul University</figcaption>
+	<img style="width: 75px" src="/media/Agu.png">
 </figure>
 
 **[Download Resume](https://drive.google.com/uc?export=download&id=1ZmJOJ3O5cU2HSWurqyiy6xUgk4aBkYYN)**
