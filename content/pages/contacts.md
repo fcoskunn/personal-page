@@ -4,73 +4,68 @@ title: Fatih Coşkun
 slug: /pages/resume
 draft: false
 ---
-**Student**
+**Student, GPA 3.71**
 
-## AAA
----
+### Education
 
-**GPA 3.71**
-
-**Education**
-
-**The School of Foreign Language**  **\    2016 - 2017**
+**The School of Foreign Language (2016 - 2017)**
 
 * AGU English Preparatory School
 * English for Academic Purposes
 
-**University of La Verne**  **\    2017 - 2017**
+**University of La Verne (2017 - 2017)**
 
 * English Summer Education
 
-**Computer Engineering**  **\    2017 - Present**
+**Computer Engineering (2017 - Present)**
 
 * Abdullah Gul University 2nd year Student
 
-**Personal Projects**
+### Personal Projects
 
-**Non-Academic Website for Abdullah Gul University                                                                         Ongoing**
+**Non-Academic Website for Abdullah Gul University (Ongoing)**
 
 * With the coordination of the AGU Youth Factory and Dean of Students Office the Non-Academic Transcript (NAT) is created by Abdullah Gul University which will now ensure easy recognition  of the students&#39; competencies. The academic achievement of the students is recognized by the diploma and the diploma appendix they receive when they graduate from their respective universities. Via NAT, students will make the extracurricular activities they took part in and the competencies (soft skills) they acquired recognized.
 * The NAT website is prepared with php, jQuery, Hammer.js, Materialize CSS on CentOS operating system.
 
-**Events and Contests' Nokia Registration System Supporting GDPR Requirements**  **\    Ongoing**
+**Events and Contests' Nokia Registration System Supporting GDPR Requirements (Ongoing)**
 
 * Epic project with Erasmus+
 * It is a project that aims to create a mobile registration system for the events organized by Nokia and to register the customer, Nokia employees and students.
 
-[**Radiate Android Radio Stream Application**](https://github.com/fcoskunn/Radiate) **\    Finished**
+[**Radiate Android Radio Stream Application**](https://github.com/fcoskunn/Radiate) (**Finished)**
 
 * Application gets radio stations from an API.
 * There are more than 20 thousand radio stations with differentcountries and
 
-**Light Follower with Lego Mindstorm**_Abdullah Gul University                                                       _** Finished**
+**Light Follower with Lego Mindstorm**_Abdullah Gul University (_**Finished)**
 
-[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University                                                                                                                _ **Finished**
+[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University (_**Finished)**
 
 * A fork game of Agar.io
 * Java Object Oriented Programming Course Project
 
-**Scholarships**
+### Scholarships
 
-**Ministry of Nation, Abdual Education of Turkey Scholarship**  **\    2008 – 2016**
+**Ministry of Nation, Abdual Education of Turkey Scholarship** (**2008 – 2016)**
 
-**AGU Foundation Scholarship for High Performance                                                     2016 – Present**
+**AGU Foundation Scholarship for High Performance (2016 – Present)**
 
-**Languages**
+### Languages
 
 **English – Fluent in reading, writing, listening and speaking**
 
 **Turkish – Mother tongue**
 
-**Extra-Curricular Activities**
+### Extra-Curricular Activities
 
-**Head of Computer Society Club, AGU                                               **  **\    2018 – Present**
+**Head of Computer Society Club, AGU (2018 – Present)**
 
 **Participant in Mobile Programming Hackathon, AGU 2018**
 
 **Participant in Inzva Summer Camp 2018**
 
-**Technical Skills**
+### Technical Skills
 
 **Java – Experienced**
 
