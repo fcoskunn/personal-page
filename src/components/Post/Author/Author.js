@@ -8,7 +8,6 @@ export const PureAuthor = ({ data }) => {
 
   return (
     <div className={styles['author']}>
-      <p className={styles['author__bio']}>
         {author.bio}
         <a
           className={styles['author__bio-linkedin']}
@@ -16,7 +15,7 @@ export const PureAuthor = ({ data }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          <strong>{author.name}</strong> on LinkedIn
         </a>
       </p>
     </div>
