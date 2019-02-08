@@ -8,7 +8,6 @@ export const PureAuthor = ({ data }) => {
 
   return (
     <div className={styles['author']}>
-        {author.bio}
         <a
           className={styles['author__bio-linkedin']}
           href={getContactHref('linkedin', author.contacts.linkedin)}
