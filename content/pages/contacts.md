@@ -6,8 +6,8 @@ draft: false
 ---
 **[Download Resume](https://drive.google.com/uc?export=download&id=1ZmJOJ3O5cU2HSWurqyiy6xUgk4aBkYYN)**
 
-<figure class="float-right" style="width: 240px">
-	<img src="/media/Agu.png" alt="AGU">
+<figure class="float-right" style="width: 120px">
+	<img src="/media/Agu.png">
 	<figcaption>Abdullah Gul University</figcaption>
 </figure>
 
