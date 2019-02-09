@@ -19,7 +19,7 @@ The challenge involves the construction of trees, in the form of ASCII Art with 
 
 I used the following code to solve this question.
 
-```
+```bash
 #!/bin/bash
 declare -A matrix
 num_rows=63
