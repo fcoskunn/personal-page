@@ -2,7 +2,7 @@
 template: post
 title: Functions and Fractals - Recursive Trees - Bash!
 slug: /posts/bash-tree
-draft: true
+draft: false
 date: 2019-01-11T11:26:28.627Z
 description: A solution of Hackerrank question about printing functions and fractals!
 category: Code Challenge
