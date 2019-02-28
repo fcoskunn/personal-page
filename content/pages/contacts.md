@@ -45,6 +45,9 @@ draft: false
 
 * Application gets radio stations from an API.
 * There are more than 20 thousand radio stations with different countries and languages.
+* Applied Android’s advanced components such as notifications, services, broadcast
+  receivers and content providers.
+* Synchronized SQLite database in Android app
 
 **Light Follower with Lego Mindstorm **_Abdullah Gul University (_**Finished)**
 
