@@ -33,7 +33,7 @@ draft: false
 
 **Non-Academic Website for Abdullah Gul University (Ongoing)**
 
-* With the coordination of the AGU Youth Factory and Dean of Students Office the Non-Academic Transcript (NAT) is created by Abdullah Gul University which will now ensure easy recognition  of the students&#39; competencies. The academic achievement of the students is recognized by the diploma and the diploma appendix they receive when they graduate from their respective universities. Via NAT, students will make the extracurricular activities they took part in and the competencies (soft skills) they acquired recognized.
+* With the coordination of the AGU Youth Factory and Dean of Students Office the Non-Academic Transcript (NAT) is created by Abdullah Gul University which will now ensure easy recognition  of the students&#39; competencies. Via NAT, students will make the extracurricular activities they took part in and the competencies (soft skills) they acquired recognized.
 * The NAT website is prepared with php, jQuery, Hammer.js, Materialize CSS on CentOS operating system.
 
 **Events and Contests' Nokia Registration System Supporting GDPR Requirements (Ongoing)**
@@ -55,6 +55,16 @@ draft: false
 
 * A fork game of Agar.io
 * Java Object Oriented Programming Course Project
+
+** Smart Coach Helper(Finished) **
+* Application gets user activities’ data from API, which is continuously collected from personal smart watch, and examine it.
+* Coach can see students examined data and take some advice from application.
+
+** Personal Website (fcoskun.info - Ongoing) **
+* The website is prepared with Gatsby, React and Netlify technologies.
+
+** Digital Design of Security System Abdullah Gul University (Finished) **
+* Designed digital circuits for a security system by using Basys 3 Artix-7 FPGA board with VHDL on Vivado.
 
 ### Scholarships
 
@@ -106,3 +116,8 @@ draft: false
 * Machine learning algorithms (Beginner)
 
 **Efficient with Office programs**
+
+### Personal Skills
+Fast Learner,
+Active participant of group work,
+Solution oriented
