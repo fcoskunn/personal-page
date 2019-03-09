@@ -10,7 +10,7 @@ draft: false
 
 ## Fatih Coşkun
 
-**[Download Resume](https://drive.google.com/uc?export=download&id=1ZmJOJ3O5cU2HSWurqyiy6xUgk4aBkYYN)**
+**[Download Resume](https://drive.google.com/uc?export=download&id=1C531QExbDUbnYkTMr6RXPA3i4rFblOFM)**
 
 **Student, GPA 3.71**
 
