@@ -51,19 +51,25 @@ draft: false
 
 **Light Follower with Lego Mindstorm **_Abdullah Gul University (_**Finished)**
 
-[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University (_**Finished)**
+[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University _(**Finished)**
 
 * A fork game of Agar.io
 * Java Object Oriented Programming Course Project
 
 **Smart Coach Helper(Finished)**
-* Application gets user activities’ data from API, which is continuously collected from personal smart watch, and examine it.
+
+* Application gets user activities’ data from API, which is continuously collected from personal
+  smart watch, and examine it.
 * Coach can see students examined data and take some advice from application.
 
-**Personal Website (fcoskun.info - Ongoing)**
+**Personal Website (fcoskun.info - Ongoing)
+**
+
 * The website is prepared with Gatsby, React and Netlify technologies.
 
-**Digital Design of Security System Abdullah Gul University (Finished)**
+**Digital Design of Security System Abdullah Gul University (Finished)
+**
+
 * Designed digital circuits for a security system by using Basys 3 Artix-7 FPGA board with VHDL on Vivado.
 
 ### Scholarships
@@ -94,7 +100,7 @@ draft: false
 
 **Web technologies**
 
-* Php, HTML, Javascript, jQuery, Ajax
+* Php, HTML, Javascript, jQuery, Ajax, React
 
 **Database**
 
@@ -118,6 +124,7 @@ draft: false
 **Efficient with Office programs**
 
 ### Personal Skills
+
 Fast Learner,
-Active participant of group work,
+Active participant of group work,
 Solution oriented
