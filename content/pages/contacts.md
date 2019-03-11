@@ -51,7 +51,7 @@ draft: false
 
 **Light Follower with Lego Mindstorm **_Abdullah Gul University (_**Finished)**
 
-[**Fc.io**](https://github.com/fcoskunn/Fc.io) _Abdullah Gul University _(**Finished)**
+[**Fc.io**](https://github.com/fcoskunn/Fc.io) Abdullah Gul University (**Finished)**
 
 * A fork game of Agar.io
 * Java Object Oriented Programming Course Project
